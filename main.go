@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello")
 	res := add(2, 5)
 	fmt.Println("Result: ", res)
+	fmt.Println("End Of Program")
 }
 
 // method is for adding two numbers
